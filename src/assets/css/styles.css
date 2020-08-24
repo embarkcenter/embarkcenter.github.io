@@ -8390,7 +8390,7 @@ h1, h2, h3, h4, h5,
     opacity: 0; }
     @media (max-width: 991.98px) {
       .hero-wrap .overlay {
-        opacity: .5; } }
+        opacity: .65; } }
   .hero-wrap .slider-text {
     height: 90vh;
     z-index: 0;
