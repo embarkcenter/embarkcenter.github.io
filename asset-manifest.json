@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d23e166e.chunk.css",
+    "main.js": "/static/js/main.c6e660d3.chunk.js",
+    "main.js.map": "/static/js/main.c6e660d3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd4c6d0c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd4c6d0c.js.map",
+    "static/css/2.012b95f9.chunk.css": "/static/css/2.012b95f9.chunk.css",
+    "static/js/2.e07f6916.chunk.js": "/static/js/2.e07f6916.chunk.js",
+    "static/js/2.e07f6916.chunk.js.map": "/static/js/2.e07f6916.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a20292b7ef55c88511ffbafb6aecacfc.js": "/precache-manifest.a20292b7ef55c88511ffbafb6aecacfc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.012b95f9.chunk.css.map": "/static/css/2.012b95f9.chunk.css.map",
+    "static/css/main.d23e166e.chunk.css.map": "/static/css/main.d23e166e.chunk.css.map",
+    "static/js/2.e07f6916.chunk.js.LICENSE.txt": "/static/js/2.e07f6916.chunk.js.LICENSE.txt",
+    "static/media/embark.png": "/static/media/embark.041e0fb2.png",
+    "static/media/embark_logo.png": "/static/media/embark_logo.ac13c2a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd4c6d0c.js",
+    "static/css/2.012b95f9.chunk.css",
+    "static/js/2.e07f6916.chunk.js",
+    "static/css/main.d23e166e.chunk.css",
+    "static/js/main.c6e660d3.chunk.js"
+  ]
+}
